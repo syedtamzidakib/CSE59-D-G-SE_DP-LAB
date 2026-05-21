@@ -445,7 +445,7 @@ The system must support:
 
 # 5. Entity Relationship (ER) Diagram
 
-<image src>
+<img src="images/bjhg.png">
 ---
 
 ## Entity Relationships
