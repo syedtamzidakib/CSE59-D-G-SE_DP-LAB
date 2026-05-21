@@ -19,10 +19,6 @@ This SRS document serves as a reference for developers, stakeholders, project ma
 | Version | Description |
 |---------|-------------|
 | 1.0 | Initial Draft |
-| 1.1 | Added Functional and Non-Functional Requirements |
-| 1.2 | Added Use Cases and ER Diagram Details |
-| 1.3 | Added Rare Medicine Management Features |
-| 1.4 | Finalized Complete SRS Documentation |
 
 ---
 
@@ -449,27 +445,7 @@ The system must support:
 
 # 5. Entity Relationship (ER) Diagram
 
-## Main Entities
-
-- User
-- Customer
-- Admin
-- Pharmacist
-- DeliveryPersonnel
-- Medicine
-- Category
-- Supplier
-- RareMedicineRequest
-- Cart
-- CartItem
-- Order
-- OrderItem
-- Prescription
-- Payment
-- Delivery
-- Notification
-- Review
-
+<image src>
 ---
 
 ## Entity Relationships
